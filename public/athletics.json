@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "State Championship",
+      "date": "2024-05-24T17:00:00-07:00",
+      "time": "2024-05-24T17:00:00-07:00",
+      "location": "",
+      "advantage": "Away",
+      "detailsLink": "#"
+    } 
+  ]
+}
